@@ -24,6 +24,14 @@ export const galleryConfig: GalleryConfig = {
 			tags: ["崩坏星穹铁道", "流萤"],
 		},
 		{
+			id: "endfield",
+			name: "终末地",
+			description: "游戏截图",
+			location: "明日方舟",
+			date: "2026-07-10",
+			tags: ["游戏"],
+		},
+		{
 			id: "encrypted-test",
 			name: "加密相册示例",
 			description:
