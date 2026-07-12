@@ -34,7 +34,7 @@ image: ./images/firefly2.avif
 ## 🚀 技术架构
 
 - **静态站点生成**: 基于 Astro ，提供极快的加载速度和优秀的 SEO 优化
-- **TypeScript 支持**: 完整的类型安全，提升开发体验和代码质量
+- **TypeScript 支持**: 完整的类型安全，提升开发体验和代码质量你们好
 - **响应式设计**: 使用 Tailwind CSS 构建，完美适配桌面端和移动端
 - **组件化开发**: 支持 Astro、Svelte 组件，灵活可扩展
 
